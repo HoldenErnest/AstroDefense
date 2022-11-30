@@ -1,5 +1,5 @@
 # AstroDefense
-One of the first game ideas I had, remade with unity.
+One of the first games I made, partially remade with unity.
 
 Why a castle in space? Who knows
 
